@@ -151,19 +151,6 @@
 
 ---
 
-## 📊 More GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vixora-0x&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vixora-0x&theme=github_dark" alt="Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vixora-0x&theme=github_dark" alt="Most Commit Language" />
-</p>
-
----
-
 ## 🚀 Currently Learning
 
 ```text
